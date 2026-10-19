@@ -70,7 +70,7 @@ hi-my-friends/
 
 Creado por **Tu nombre**.
 
-GitHub: [Tu usuario](https://github.com/TU-USUARIO)
+GitHub: [Soyalexis7w0](https://github.com/Soyalexis7w0)
 
 ## 📄 Licencia
 
