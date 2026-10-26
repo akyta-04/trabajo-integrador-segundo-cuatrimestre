@@ -17,12 +17,13 @@ El objetivo es crear un espacio sencillo, amigable y fácil de utilizar.
 
 ## Características
 
-- Diseño simple y fácil de entender.
-- Código organizado.
-- Posibilidad de agregar nuevas funcionalidades.
+- entender el funcionamiento de las enfermedades e institutos.
+- se veran los diagramas como el entidad-relacion y el relacional.
+- se agregara una base de datos de enfermedades e intituciones
+- Posibilidad de entender el tema.
 - Proyecto en constante desarrollo.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Las tecnologías utilizadas dependerán de las herramientas elegidas para desarrollar el proyecto.
 
