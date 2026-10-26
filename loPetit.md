@@ -1,4 +1,3 @@
-
 # Los dinamitas
 
 ¡Bienvenidos a **Los dinamitas**!
@@ -9,13 +8,14 @@
 
 El objetivo es crear un espacio sencillo, amigable y fácil de utilizar.
 
-## Objetivos
+## Objetivos del proyecto dinamita
 
 - Aprender nuevas cosas sobre las enfermedades y las instituciones.
 - Crear un proyecto organizado.
-- 
+- tener un espacio de aprendisaje
+- tratar de que todos sepan sobre las enfermedades y las instituciones
 
-## ✨ Características
+## Características
 
 - Diseño simple y fácil de entender.
 - Código organizado.
