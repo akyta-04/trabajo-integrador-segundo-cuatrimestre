@@ -5,7 +5,7 @@
 
 ## 📌 Descripción
 
-**Hi My Friends** es un proyecto creado para compartir ideas, aprender y experimentar con el desarrollo de proyectos digitales.
+**Hi My Friends** es un proyecto creado para compartir nuestro trabajo expositivo.
 
 El objetivo es crear un espacio sencillo, amigable y fácil de utilizar.
 
