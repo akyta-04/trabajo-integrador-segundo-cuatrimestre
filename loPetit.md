@@ -1,20 +1,19 @@
 
-# 👋 Hi My Friends
+# Los dinamitas
 
-¡Bienvenidos a **Hi My Friends**! 🎉
+¡Bienvenidos a **Los dinamitas**!
 
-## 📌 Descripción
+## Descripción
 
-**Hi My Friends** es un proyecto creado para compartir nuestro trabajo expositivo.
+**Los dinamitas** es un proyecto creado para compartir nuestro trabajo expositivo, veremos una base de datos de enfermedades argentinas e instituciones, diagrama relacionales, diagrama de entidad-relacion y una documentacion.
 
 El objetivo es crear un espacio sencillo, amigable y fácil de utilizar.
 
-## 🎯 Objetivos
+## Objetivos
 
-- Aprender y practicar nuevas habilidades.
+- Aprender nuevas cosas sobre las enfermedades y las instituciones.
 - Crear un proyecto organizado.
-- Mejorar los conocimientos de programación.
-- Incorporar nuevas funciones con el tiempo.
+- 
 
 ## ✨ Características
 
